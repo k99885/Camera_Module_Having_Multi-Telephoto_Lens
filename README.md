@@ -96,3 +96,6 @@ def Barrel(input_image_path, output_image_path):
 
 최종적으로 망원카메라로 취득한영상(3024x3024)4개를 병합하여 4868x5250의 높은 해상도를 가진 하나의 영상을 취득하였습니다.
 
+![image](https://github.com/k99885/Wide-angle-image-implementation-using-multiple-telephoto-cameras-/assets/157681578/a5b29c5a-e910-4229-acd3-f231be04474a)
+
+
