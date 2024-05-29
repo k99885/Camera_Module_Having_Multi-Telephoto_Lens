@@ -1,5 +1,5 @@
 # 다중 망원카메라를 이용한 광각 영상 구현
-
+## Overview
 (Wide-angle image implementation using multiple telephoto cameras)
 
 바형 폴더블 스마트폰의 경우 외부 후면 카
@@ -18,6 +18,12 @@
 또한 최종적으로 병합된 이미지는 각 카메라모듈의 메가급 이미지의 합으로 
 이뤄지기에 높은 해상도의 이미지가 취득되며 확대하여 이미지를 보더라도
 종래의 디지털 크롭 보다 높은 해상도를 가질 수 있습니다.
+
+## Table of contents
+-[1. 영상 취득](#1-영상-취득)
+-[2. 이미지 스티칭](#2-이미지-스티칭)
+-[3. 왜곡 제거](#3-왜곡-제거)
+-[4. 결과](#4-결과)
 
 ## 1. 영상 취득
 ![도면1](https://github.com/k99885/k99885-Wide-angle-image-implementation-using-multiple-telephoto-cameras/assets/157681578/991f19c5-6379-4e73-885a-c176b9a1c5a4)
