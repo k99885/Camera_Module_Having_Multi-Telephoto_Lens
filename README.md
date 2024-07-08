@@ -1,6 +1,9 @@
-# 다중 망원카메라를 이용한 광각 영상 구현
+# 복수의 망원 렌즈 카메라를 구비하는 카메라 모듈
+
+출원번호:10-2024-0072306
+
 ## Overview
-(Wide-angle image implementation using multiple telephoto cameras)
+(Camera Module Having Multi-Telephoto Lens)
 
 바형 폴더블 스마트폰의 경우 외부 후면 카
 메라의 위치가 외부 디스플레이와 동일한 위치에 존재하는 물리적 구조를 가
