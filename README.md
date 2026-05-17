@@ -1,7 +1,12 @@
 # Camera Module Having Multi-Telephoto Lens
 (복수의 망원 렌즈 카메라를 구비하는 카메라 모듈)
 
+특허 번호: 10-2867048
+
 특허 출원번호:10-2024-0072306
+
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/4945bdb4-5bbd-48e0-a282-12d1a45386af" />
+
 
 ## Overview
 
